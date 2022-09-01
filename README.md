@@ -5,3 +5,4 @@ Dependencies:
 * pandoc
 * inkscape
 * fira mono & fira sans
+* m
